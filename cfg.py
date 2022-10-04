@@ -1,12 +1,12 @@
 # Vist https://my.telegram.org/auth to get api_id & api_hash.
-API_ID : int = 15952804
-API_HASH : str = '351d7f09d010e7d9a5e3df541a4127e5'
+API_ID : int = 1234
+API_HASH : str = 'dasdas5'
 
 # Phone number of Telegram
-PHONE_NUMBER : str = '8618071385907'
+PHONE_NUMBER : str = 'sdasdsdas'
 
 # Telegram bot_token
-BOT_TOKEN : str = '5444989516:AAFIBlMAAhJPDmEdvwQCtuh1k-ce9WsRfzw'
+BOT_TOKEN : str = 'sdasffdgsdfsd'
 
 # Proxy
 #HOST : str = '127.0.0.1'
